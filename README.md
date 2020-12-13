@@ -20,7 +20,7 @@ npm install
 
 ## Author ##
 
-Tewodros Negusse
+Misganaw Desaley
   
 
 ## Acknowledgments ##
